@@ -1,0 +1,14 @@
+body {
+    background-color: #f8cbf5;
+}
+.box {
+    background: #c722c1; 
+    color: white; 
+    border-radius: 10px; 
+    width: 1000px; 
+    height: 300px; 
+    margin: 200px 250px;
+}
+.text {
+    padding: 30px 50px;
+}
